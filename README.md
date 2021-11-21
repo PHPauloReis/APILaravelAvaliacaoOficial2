@@ -10,4 +10,5 @@ Projeto criado para avaliação oficial 2 da disciplina Programação Web 2
 - Execute o comando ```php artisan serve``` para subir o servidor local da aplicação
 
 ## Importante:
-- O endereço base da api será "http://localhost:8000/api
+- O endereço base local da api será "http://localhost:8000/api
+- Link para documentação: https://documenter.getpostman.com/view/340515/UVJWqzbF
