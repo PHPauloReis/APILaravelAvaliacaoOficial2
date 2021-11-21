@@ -1,5 +1,13 @@
 <?php
 
+/*
+ * Unime - Lauro de Freitas
+ * Bacharelado em Sistemas de Informação
+ * Programação Web II
+ * Pablo Ricardo Roxo Silva
+ * Ítalo Nascimento e Paulo Reis
+ */
+
 namespace App\Http\Controllers;
 
 use App\Http\Requests\TermRequest;
